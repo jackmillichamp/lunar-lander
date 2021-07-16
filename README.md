@@ -12,10 +12,12 @@ a mean reward of 200, over 100 consecutive episodes.
 ## States
 Every time step the agent receives an observation from the environment containing eight values, each
 corresponding to one of the items in the list below.
+
 ![image](https://github.com/jackmillichamp/lunar-lander/blob/main/states.png)
 
 ## Actions
 The agent must then choose one of the four possible discrete actions listed below.
+
 ![image](https://github.com/jackmillichamp/lunar-lander/blob/main/actions.png)
 
 ## Rewards
