@@ -12,11 +12,11 @@ a mean reward of 200, over 100 consecutive episodes.
 ## States
 Every time step the agent receives an observation from the environment containing eight values, each
 corresponding to one of the items in the list below.
-![image](https://github.com/jackmillichamp/lunar-lander/states.png)
+![image](https://github.com/jackmillichamp/lunar-lander/blob/main/states.png)
 
 ## Actions
 The agent must then choose one of the four possible discrete actions listed below.
-![image](https://github.com/jackmillichamp/lunar-lander/actions.png)
+![image](https://github.com/jackmillichamp/lunar-lander/blob/main/actions.png)
 
 ## Rewards
 The agent receives a reward of +10 every time one of the lander’s legs touches the ground, as well
@@ -26,6 +26,6 @@ which the landing craft has either crashed (due to landing upside down or too qu
 successfully, resulting in rewards of −100 and +100 respectively. Finishing on the landing pad
 carries an additional bonus reward of between +100 and +140.
 
-![image](https://github.com/jackmillichamp/lunar-lander/rewards_graph.png)
+![image](https://github.com/jackmillichamp/lunar-lander/blob/main/rewards_graph.png)
 
-![image](https://github.com/jackmillichamp/lunar-lander/epsilon_graph.png)
+![image](https://github.com/jackmillichamp/lunar-lander/blob/main/epsilon_graph.png)
